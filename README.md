@@ -3,7 +3,7 @@ Homework 13
 
 # D3 Homework - Data Journalism and D3
 
-![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+![Newsroom](https://github.com/ClementsMX/D3-challenge/blob/main/D3_data_journalism/images/D3Graph.png)
 
 ## Background
 
